@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is for master
+=======
+fifth replace deletion
+ + addition 
+>>>>>>> my-new-branch
