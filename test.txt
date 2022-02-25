@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding another line
+=======
+file 2
+>>>>>>> ed9ada232c3eb2cbe21d647fa7a9233451202c5a
